@@ -1,6 +1,6 @@
 // script.js
 
-const GAS_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyJTHL0p3mzhT_ndsjVeJZtcivre5z1X0WolL1sqn9uEYXMm6ADZ_HdbkW4jT7dTMnv/exec'; // <--- عدّل هذا!!!
+const GAS_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbwv3P9Q2x1eFnF3RP3z4VMc9uZBfP9-FU5X2ddLZhXQzARMY5ShYoLuqDKwSJyvtXR8/exec'; // <--- عدّل هذا!!!
 
 // --- الحالة العامة للتطبيق ---
 let currentUser = null;
